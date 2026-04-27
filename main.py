@@ -1,8 +1,4 @@
-# Asha Thomas(athom104), Iman Patel(ipate50), Mishal Siddiqui(msidd82)
 # Info: Our final project is called Animal Cafe, a user interactive memorization game where the player is allowed to choose their difficulty level (easy/medium/hard), their own character (cat/dog/monkey/bunny) and complete a various amount of orders with an turn counter. At the end of the day, the user is graded on their accuracy and either wins or loses!
-# How to play: All you have to do to play the game is click ‘Play’ on the homescreen, click one of the difficulty buttons (changes the types of orders you will be required to complete), click on your desired chef animal, and start! When a customer appears, click on the ‘!’ by their head where you will see what they want you to make for them. Select the ‘Make Order’ button and click on the cake that’s correct. When you’re done, click on the ‘Done’ button. Depending on if you got it right or wrong, your score will update. Keep going until all 5 customers have been served!
-# Slides: https://docs.google.com/presentation/d/1aR5tBNw3tCJhTIQEJAS8YXm9-7kBC_9ZbaDnzGIyqB8/edit?usp=sharing
-# Video: https://drive.google.com/file/d/11czT_uiqdlrwx29QG6-b8WOCvmY6DiW7/view 
 
 import turtle
 import random
